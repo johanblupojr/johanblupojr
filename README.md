@@ -3,7 +3,7 @@
 <br>
 I'm a versatile professional with expertise in Chemical Engineering, Data Analysis, and Fullstack Development. My diverse skill set allows me to tackle problems from multiple angles, optimizing complex systems. With strong quantitative skills and proficiency in Python, R, SQL, and data visualization tools like Tableau and PowerBI, I excel as a Data Analyst. Additionally, I'm an aspiring Fullstack Developer, adept at web technologies such as HTML, CSS, JavaScript, React, and Angular. I'm driven, always learning, and thrive on new challenges. I bring value to any team or project I'm a part of.
 
-<p align="Center"> 
+<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=johanblupojr&label=Views&color=blueviolet&style=for-the-badge" alt="johanblupojr" /> </p>
 
 - 🌱 I’m currently learning **Javascript, React, etc.**
