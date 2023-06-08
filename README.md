@@ -36,10 +36,11 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="padding-right:10px"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding-right:10px"/> </a> </p>
 
---
+---
 
-![Johan's GitHub stats]
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanblupojr&show_icons=true&locale=en&layout=compact" alt="johanblupojr" /></p>
+
+<p>
+![Johan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=johanblupojr&show_icons=true&theme=gruvbox)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johanblupojr&show_icons=true&locale=en" alt="johanblupojr" /></p>
 
