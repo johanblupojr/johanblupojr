@@ -9,7 +9,7 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 
 <a href="https://github.com/johanblupojr?tab=followers">
  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/johanblupojr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/johanblupojr?tab=repositories&sort=stargazers">
+<a href="https://github.com/johanblupojr?tab=following">
  <img alt="following" title="Following Github" src="https://custom-icon-badges.demolab.com/github/followers/johanblupojr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Following&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=johanblupojr&label=Views&color=blueviolet&style=for-the-badge&logo=star" alt="johanblupojr" /> </p>
 
