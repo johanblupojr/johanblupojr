@@ -37,6 +37,7 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding-right:10px"/> </a> </p>
 
 --
+
 ![Johan's GitHub stats]
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanblupojr&show_icons=true&locale=en&layout=compact" alt="johanblupojr" /></p>
 
