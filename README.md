@@ -26,7 +26,7 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 ---
 
 <h3 align="left">🧰 Languages and Tools:</h3>
-
+<p>
 <img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /> 
@@ -34,7 +34,8 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 <img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" /> 
-<img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" /> </p>
+<img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" /> 
+</p>
 
 ---
 
