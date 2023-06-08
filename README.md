@@ -12,7 +12,7 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 
  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/johanblupojr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/johanblupojr?tab=repositories&sort=stargazers">
-<img alt="Following" title="Following on GitHub" src="https://custom-icon-badges.demolab.com/github/following/johanblupojr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<img alt="Following" title="Following on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/johanblupojr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ---
 
