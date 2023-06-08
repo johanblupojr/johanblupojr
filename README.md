@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanblupojr&label=Profile%20views&color=0e75b6&style=flat" alt="johanblupojr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanblupojr" alt="johanblupojr" /></a> </p>
+- 🌱 I’m currently learning **Javascript, React, etc.**
+
+- 📫 How to reach me **johanblupojr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
