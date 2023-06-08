@@ -27,7 +27,7 @@ I'm a versatile professional with expertise in Chemical Engineering, Data Analys
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p>
-<img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" /> 
+<img align="left" width="30px" style="padding-right-:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /> 
 <img align="left" width="30px" style="padding-right-:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" /> 
