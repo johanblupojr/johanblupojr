@@ -3,16 +3,13 @@
 <br>
 I'm a versatile professional with expertise in Chemical Engineering, Data Analysis, and Fullstack Development. My diverse skill set allows me to tackle problems from multiple angles, optimizing complex systems. With strong quantitative skills and proficiency in Python, R, SQL, and data visualization tools like Tableau and PowerBI, I excel as a Data Analyst. Additionally, I'm an aspiring Fullstack Developer, adept at web technologies such as HTML, CSS, JavaScript, React, and Angular. I'm driven, always learning, and thrive on new challenges. I bring value to any team or project I'm a part of.
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=johanblupojr&label=Views&color=blueviolet&style=for-the-badge" alt="johanblupojr" /> </p>
-
 - 🌱 I’m currently learning **Javascript, React, etc.**
 
 - 📫 How to reach me **johanblupojr@gmail.com**
 
  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/johanblupojr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/johanblupojr?tab=repositories&sort=stargazers">
-<img alt="Following" title="Following on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/johanblupojr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<img src="https://komarev.com/ghpvc/?username=johanblupojr&label=Views&color=blueviolet&style=for-the-badge&logo=star" alt="johanblupojr" /> </p>
 
 ---
 
